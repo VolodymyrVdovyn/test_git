@@ -1,1 +1,2 @@
-hot
+first line
+second line 
